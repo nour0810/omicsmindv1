@@ -2,6 +2,8 @@
 
 **AI-Powered Omics Simulation Platform** for learning bioinformatics through interactive, real-world clinical scenarios.
 
+> ⚠️ **Draft Version** — This project is currently in development. Stay tuned for the final release!
+
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-OmicsMind-00d4aa?style=for-the-badge)](https://omicsmind-yv80o01.public.builtwithrocket.new/welcome)
 
 ---
