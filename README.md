@@ -102,41 +102,6 @@ omicsmind/
 
 ---
 
-## 🚴 Run Locally
-
-```bash
-# Clone the repository
-git clone https://github.com/nour0810/omicsmindv1.git
-cd omicsmindv1
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
-
-Open [http://localhost:3000](http://localhost:3000)
-
----
-
-## 🔑 API Setup
-
-To enable live AI reasoning, create a `.env.local` file:
-
-```env
-ANTHROPIC_API_KEY=your_anthropic_api_key_here
-```
-
-Get your API key at [console.anthropic.com](https://console.anthropic.com)
-
-Without an API key, the app uses demo responses.
-
----
-
 ## ✨ Features
 
 - 🌌 **Animated Landing Page** — Particle field, DNA helix animation, scenario cards
